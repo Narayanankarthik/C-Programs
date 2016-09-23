@@ -21,6 +21,8 @@ void permute(char *a, int l, int r)
    int i;
    if (l == r)
      printf("%s\n", a);
+     
+     else
    
    {
        for (i = l; i <= r; i++)
