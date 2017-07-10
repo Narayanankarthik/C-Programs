@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+int mian()
+{
+int get;
+get=100;
+printf("\n%d",get);
+}
+int main()
+{
+clrscr();
+mian();
+getch();
+}
+
